@@ -1,0 +1,18 @@
+1. https://stackabuse.com/command-line-arguments-in-python/
+
+2. https://www.tutorialspoint.com/python/python_command_line_arguments.htm
+
+3. https://www.geeksforgeeks.org/python-set-6-arguments/
+
+4. https://www.journaldev.com/17743/python-command-line-arguments
+
+5. https://docs.python.org/3/library/argparse.html
+
+6. https://docs.python.org/2/howto/argparse.html
+
+7. https://realpython.com/command-line-interfaces-python-argparse/
+
+8. https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05
+
+9. https://pymotw.com/2/argparse/
+

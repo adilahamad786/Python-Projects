@@ -1,0 +1,10 @@
+1. https://www.geeksforgeeks.org/socket-programming-python/
+
+2. https://realpython.com/python-sockets/
+
+3. https://www.pubnub.com/blog/socket-programming-in-python-client-server-p2p/
+
+4. https://www.tutorialspoint.com/python/python_networking.htm
+
+5. https://docs.python.org/3/howto/sockets.html
+
